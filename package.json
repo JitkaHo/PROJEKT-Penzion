@@ -1,0 +1,21 @@
+{
+  "name": "PROJEKT-Penzion",
+  "version": "1.0.0",
+  "description": "Povinný úkol pro kurz Staň se kóderkou od Czechitas.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JitkaHo/PROJEKT-Penzion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JitkaHo/PROJEKT-Penzion/issues"
+  },
+  "homepage": "https://github.com/JitkaHo/PROJEKT-Penzion#readme"
+}
